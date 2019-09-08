@@ -20,6 +20,10 @@
 ## Documentation
 
 - [GeoPandas](http://geopandas.org/)
+  - [Choropleth Maps](https://geopandas.readthedocs.io/en/latest/mapping.html#choropleth-maps)
+  - [Converting DataFrames to GeoDataFrames](https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html)
+  - [Managing Projections](http://geopandas.org/projections.html)
+  - [Merging Data](https://geopandas.readthedocs.io/en/latest/mergingdata.html)
 
 ## Further Reading / References
 
@@ -30,5 +34,3 @@
 - [Coordinate Reference Systems](https://docs.qgis.org/2.8/en/docs/gentle_gis_introduction/coordinate_reference_systems.html)
 - [EPSG Codes](http://epsg.io/)
 - [Cartopy and Matplotlib](https://geopandas.readthedocs.io/en/latest/gallery/cartopy_convert.html)
-- [Managing Projections](http://geopandas.org/projections.html)
-- [Converting DataFrames to GeoDataFrames](https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html)
