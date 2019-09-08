@@ -16,4 +16,6 @@ dependencies:
   - notebook
   - vega
   - geopandas
+  - descartes
   - cartopy
+  - mapclassify
