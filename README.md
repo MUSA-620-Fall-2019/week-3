@@ -24,6 +24,8 @@
   - [Converting DataFrames to GeoDataFrames](https://geopandas.readthedocs.io/en/latest/gallery/create_geopandas_from_pandas.html)
   - [Managing Projections](http://geopandas.org/projections.html)
   - [Merging Data](https://geopandas.readthedocs.io/en/latest/mergingdata.html)
+- [Classification Schemes](https://pysal.org/mapclassify/api.html)
+- [Contextily](https://github.com/darribas/contextily/)
 
 ## Further Reading / References
 
